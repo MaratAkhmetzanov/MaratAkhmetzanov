@@ -1,3 +1,1 @@
-- HTML/CSS/SCSS
-- JavaScript/TypeScript
-- React/Redux
+HTML/CSS/SCSS/JavaScript/TypeScript/React/Redux
